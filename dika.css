@@ -1,0 +1,144 @@
+.wrap{
+	
+	width: 900px;
+	margin: 10px auto;
+}
+ 
+/*bagian header*/
+.wrap .header{
+
+	/*height: 50px;*/
+	padding: 2px 10px;
+	text-align:left;
+	margin-top: 50px;
+}
+ 
+/*akhir header*/
+ 
+/*bagian menu*/
+.wrap .menu{
+
+}
+
+.judul{
+}
+ 
+.wrap .menu ul{
+	padding: 0;
+	margin: 0;
+	background: #333;
+	overflow: hidden;
+	border-radius: 30px;
+}
+ 
+.wrap .menu li{
+	float: left;
+}
+
+.navbar {
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	position: fixed;
+	box-shadow: 0px 0px 5px;
+}
+/*.nav{
+	float: right;
+	padding: 0px;
+	margin: 0px;
+}*/
+
+.wrap .menu li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 12px 16px;
+	text-decoration:none;
+}
+
+.wrap .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+/*akhir menu*/
+ 
+.clear{
+	clear: both;
+}
+.badan{
+	height: 200px;
+}
+
+
+.badan-top{
+	display: inline;
+}
+
+.badan .top-item{
+	margin-left: 30px;
+	width: 20%;
+	float: left;
+	margin-top: 10px;
+	height: 300px;
+}
+
+.badan img{
+	height: 100px;
+}
+
+.top-itemm .top-text{
+	margin: 10px 10px 0px 2px;
+}
+
+.wrap .explane{
+	float: left;	
+	width: 75%;
+	height: 400px;
+	border-radius: 10px;
+	background-image: url(penjabat.jpg);
+}
+
+
+
+.wrap .goldlane{
+	float: left;	
+	width: 25%;
+	height: 100px;
+	background-color: red;
+	border-radius: 10px;
+}
+
+.navbar .pencarian{
+	padding: 5px 0px 0px 2px;
+}
+/*.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}*/
+/*bagian sidebar*/
+/*.wrap .badan .sidebar{
+	
+	float: left;	
+	width: 50%;
+	height: 100%;
+}
+ 
+/*akhir sidebar*/
+ 
+/*ap .badan .content{
+	
+	float: left;
+	height: 100%;
+	width: 50%;	
+}*/
+ 
